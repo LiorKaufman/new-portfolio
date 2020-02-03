@@ -87,7 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+/*blockquote, q { quotes: &#8220 &#8220; }*/
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -800,6 +800,12 @@ properly.
 	margin-left: auto !important;
 	margin-right: auto !important;
 	text-align: center !important;
+}
+
+.skill-icons{
+    width: 100px;
+    height: 100px;
+
 }
 
 
