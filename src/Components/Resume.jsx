@@ -73,126 +73,132 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
-
-            {/*<div className="bars">*/}
-            {/*  <ul className="skills">{skills}</ul>*/}
-            {/*</div>*/}
-            {/*<img*/}
-            {/*  className="skill-icons"*/}
-            {/*  src="/images/portfolio/ruby.png"*/}
-            {/*></img>*/}
-            {/*<img*/}
-            {/*  className="skill-icons"*/}
-            {/*  src="/images/portfolio/phyton.png"*/}
-            {/*></img>*/}
-            {/*<img*/}
-            {/*  className="skill-icons"*/}
-            {/*  src="/images/portfolio/java.png"*/}
-            {/*></img>*/}
-            {/*<img*/}
-            {/*  className="skill-icons"*/}
-            {/*  src="/images/portfolio/html5.png"*/}
-            {/*></img>*/}
-            {/*<img*/}
-            {/*  className="skill-icons"*/}
-            {/*  src="/images/portfolio/css.png"*/}
-            {/*></img>*/}
+            {/*<p>{skillmessage}</p>*/}
             <section id="tech" className="clients">
               <div className="container">
                 <div className="text-center">
                   <h2 className="section-heading"></h2>
                 </div>
                 <div className="row">
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/phyton.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                    <span className="span"> Python</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/html.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                    <span className="span"> HTML</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/ruby.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                    <span className="text-center"> Ruby</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
+                      <img
+                          src="/images/portfolio/rails.png"
+                          className="img-responsive img-centered"
+                          alt=""
+                      />
+                      <span className="text-center"> Rails</span>
+                    </div>
+                  </div>
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
+                      <img
+                          src="/images/portfolio/postSQL.png"
+                          className="img-responsive img-centered"
+                          alt=""
+                      />
+                      <span className="text-center"> PostgreSQL</span>
+                    </div>
+                  </div>
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/css.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span className="span"> CSS</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/java.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span className="span"> Java</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/java-script.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span className="span"> JavaScript</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/sql.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span className="span"> SQL</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/c++.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span className="span"> C++</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/react.png"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span className="span"> React</span>
+                    </div>
                   </div>
-                  <div className="col-md-2 col-sm-6">
-                    <a href="#portfolio">
+                  <div className="col-md-2 col-sm-6 text-center">
+                    <div className="container">
                       <img
                         src="/images/portfolio/jest.jpg"
                         className="img-responsive img-centered"
                         alt=""
                       />
-                    </a>
+                      <span> Jest </span>
+                    </div>
                   </div>
                 </div>
               </div>
