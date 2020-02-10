@@ -5,8 +5,9 @@ class Portfolio extends Component {
 
   render() {
     if (this.props.data) {
-      var projects = this.props.data.projects.map(function(projects) {
-        var projectImage = "images/portfolio/" + projects.image;
+      const imgUrls = ["/images/portfolio/game-of-life.png","/images/portfolio/glass.png","/images/portfolio/location-list.png","/images/portfolio/tic-tac-toe.png","/images/portfolio/pig-latin.png"]
+      var projects = this.props.data.projects.map(function(projects, i) {
+        var projectImage = "public/images/portfolio/" + projects.image;
         return (
 
               <div key={projects.title} className="card" style={{minWidth: "200px", width: "20rem", height: "auto", minHeight:"250px", margin: "2rem"}}>
@@ -15,7 +16,7 @@ class Portfolio extends Component {
                     <h5 className="card-title text-center">{projects.title}</h5>
 
                   </div>
-                  <img src={projectImage} className="card-img-top border" alt="..."/>
+                  <img src={imgUrls[i]} className="card-img-top border" alt="..."/>
 
                   <div className="card-body">
                     <p className="card-text">{projects.category}</p>
