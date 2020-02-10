@@ -1,30 +1,34 @@
 import React, { Component } from "react";
 
 class Portfolio extends Component {
+
+
   render() {
     if (this.props.data) {
       var projects = this.props.data.projects.map(function(projects) {
         var projectImage = "images/portfolio/" + projects.image;
         return (
-          <div key={projects.title} className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
+
+              <div key={projects.title} className="card" style={{minWidth: "200px", width: "20rem", height: "auto", minHeight:"250px", margin: "2rem"}}>
+                <a href={projects.url} title={projects.title} >
+                  <div className="card-header">
+                    <h5 className="card-title text-center">{projects.title}</h5>
+
                   </div>
-                </div>
-                <div className="link-icon">
-                  <i className="fa fa-link"></i>
-                </div>
-              </a>
-            </div>
-          </div>
+                  <img src={projectImage} className="card-img-top border" alt="..."/>
+
+                  <div className="card-body">
+                    <p className="card-text">{projects.category}</p>
+                    <div className="card-footer text-muted">
+                      {projects.tools}
+                    </div>
+                  </div>
+                </a>
+              </div>
         );
       });
     }
+
 
     return (
       <section id="portfolio">
@@ -34,7 +38,7 @@ class Portfolio extends Component {
 
             <div
               id="portfolio-wrapper"
-              className="bgrid-quarters s-bgrid-thirds cf"
+              className= "d-flex justify-content-between flex-wrap"
             >
               {projects}
             </div>

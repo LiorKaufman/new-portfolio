@@ -13,8 +13,7 @@
       "state":"California",
       "zip": "91942"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://easyupload.io/nk6rl7",
     "social":[
 
       {
@@ -32,19 +31,25 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My skill set",
     "education":[
+      {
+        "school":"LEARN academy",
+        "degree":"Fullstack development",
+        "graduated":"JUN 2019 - Aug 2019 ",
+        "description":"Gained 480+ hours of direct hands-on coding\nexperience developing web applications utilizing\nHTML/CSS, JavaScript, React, Ruby, Rails, AWS,\nPostgreSQL and github. Practiced industry best\npractices and programming in pair and mob\nprogramming teams."
+      },
       {
         "school":"Mesa Community College, San Diego",
         "degree":"Computer Science",
         "graduated":"2018 - Present",
-        "description":"Studying for a computer science degree."
+        "description":"Accumulated 37 credits with towards a Bachelor's degree. Taken multiple Programming courses in Java and C++ as well as getting into the Dean's Honor List"
       },
       {
-        "school":"LEARN academy",
-        "degree":"Fullstack development",
-        "graduated":"2019 ",
-        "description":"Studying for a computer science degree."
+        "school":"Ben Gurion University of the Negev - Israel",
+        "degree":"Accounting",
+        "graduated":"Oct 2015 - Oct 2016 ",
+        "description":"Accumulated 32 credits towards a Bachelor's degree in accounting in Israel."
       }
 
     ],
@@ -53,73 +58,61 @@
         "company":"CourseKey",
         "title":"Frontend web developer ",
         "years":"Aug 2019 - Jan 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Worked with the web development team on User\nInterface features. Refactored existing UI with React\nhooks and Redux latest features. Wrote unit and\nintegration tests using Jest and Enzyme. Increased\ncode test coverage by 10%. Resolved bugs and issues as\nreported by users and team."
+      },
+      {
+        "company":"Hyatt Hotels",
+        "title":"Bartender",
+        "years":"Oct 2017 - Jun 2019",
+        "description":"Worked with the web development team on User\nInterface features. Refactored existing UI with React\nhooks and Redux latest features. Wrote unit and\nintegration tests using Jest and Enzyme. Increased\ncode test coverage by 10%. Resolved bugs and issues as\nreported by users and team."
+      },
+      {
+        "company":"Megi & Tuli Catering",
+        "title":"Event Manager",
+        "years":"Jun 2014 - Dec 2016",
+        "description":"Assigned roles and directed banquet servers and\nkitchen staff of up to 80 people. Found solutions to\nvarious problems that arose in an event while making\nsure company standards were upheld"
       }
 
-    ],
-    "skills":[
-      {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Game of Life",
+        "category":"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway.",
+        "tools": "React/HTML/CSS/BootStrap",
+        "image":"game-of-life.png",
+        "url":"https://game-of-life-lk.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Glasstrack",
+        "category":"My final project from LEARN Academy. A fullstack app that allows real time inventory tracking for a bar. The inventory tracks both bottle and individual glass sales.",
+        "tools": "React/BootStrap/Rails/PostgreSQL",
+        "image":"glass.png",
+        "url":"https://guarded-garden-91447.herokuapp.com/users/sign_in"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Location List ",
+        "category":"Allows a user to search and add addresses as markers in a map, and display locations in a list.",
+        "tools": "React/Material-Ui/Google API/Redux",
+        "image":"location-list.png",
+        "url":"https://places-list.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Tic-Tac-Toe",
+        "category":"The original Tic-Tac-Toe game built in React during my time as a student at LEARN academy",
+        "tools": "React/HTML/CSS",
+        "image":"tic-tac-toe.png",
+        "url":"https://tic-tac-toe-react-lior.herokuapp.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Pig Latin",
+        "category":"Pig Latin translator built in vanilla JS during my time as a student at LEARN academy",
+        "tools": "Javascript/HTML/CSS",
+        "image":"pig-latin.png",
+        "url":"https://codepen.io/artilleryjoe/pen/rEXENW"
       }
+
     ]
   }
 
