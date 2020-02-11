@@ -5,7 +5,7 @@ class Portfolio extends Component {
 
   render() {
     if (this.props.data) {
-      const imgUrls = ["images/portfolio/game-of-life.png","images/portfolio/glass.png","images/portfolio/location-list.png","images/portfolio/tic-tac-toe.png","images/portfolio/pig-latin.png"]
+      const imgUrls = ["images/portfolio/rsz_game-of-life.png","images/portfolio/glass.png","images/portfolio/location-list.png","images/portfolio/tic-tac-toe.png","images/portfolio/pig-latin.png"]
       var projects = this.props.data.projects.map(function(projects, i) {
         var projectImage = "public/images/portfolio/" + projects.image;
         return (
