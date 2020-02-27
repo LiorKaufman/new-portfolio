@@ -64,13 +64,19 @@
         "company":"Hyatt Hotels",
         "title":"Bartender",
         "years":"Oct 2017 - Jun 2019",
-        "description":"Worked with the web development team on User\nInterface features. Refactored existing UI with React\nhooks and Redux latest features. Wrote unit and\nintegration tests using Jest and Enzyme. Increased\ncode test coverage by 10%. Resolved bugs and issues as\nreported by users and team."
+        "description":"Displayed communication skills through one on one\ncontact with customers. Demonstrated flexibility in\nregard to work assignments and work schedule."
       },
       {
         "company":"Megi & Tuli Catering",
         "title":"Event Manager",
         "years":"Jun 2014 - Dec 2016",
         "description":"Assigned roles and directed banquet servers and\nkitchen staff of up to 80 people. Found solutions to\nvarious problems that arose in an event while making\nsure company standards were upheld"
+      },
+      {
+        "company":"Israel Defense Force",
+        "title":"Lieutenant",
+        "years":"Aug 2009 - May 2014",
+        "description":"Planned, coordinated and lead different field\noperations of up to 20 soldiers. Managed all aspects of\ntraining, mentoring, and daily routines of up to 70\nsoldiers at a time."
       }
 
     ]
