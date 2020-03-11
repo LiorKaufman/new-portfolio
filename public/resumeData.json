@@ -117,6 +117,13 @@
         "tools": "Javascript/HTML/CSS",
         "image":"pig-latin.png",
         "url":"https://codepen.io/artilleryjoe/pen/rEXENW"
+      },
+      {
+        "title":"Shopping List",
+        "category":"A full stack application using the MERN stack, a simple interface that lets you add and delete your shopping list",
+        "tools": "React/Node.js/Express/Redux/Boostrap/MongoDB",
+        "image":"shoppinglist.png",
+        "url":"https://hidden-wave-94604.herokuapp.com/"
       }
 
     ]
