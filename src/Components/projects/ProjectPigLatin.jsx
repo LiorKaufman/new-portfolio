@@ -28,11 +28,9 @@ const ProjectGlassTrack = () => {
         <div className='project-desc'>
           <h4>Overview</h4>
           <p>
-            If you ever wanted to translate your{' '}
-            <span className='highlight'> life memoiers </span> in pig latin then
-            my Pig Latin translator is here for you! Converts regular english
-            words into awesome{' '}
-            <span className='highlight'> pig latin words </span>
+            A simple app build with vanilla JS{' '}
+            <span className='highlight'> Translates </span> English into
+            <span className='highlight'> Pig Latin </span>
           </p>
         </div>
         <div className='project-tech'>

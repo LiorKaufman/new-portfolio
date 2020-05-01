@@ -5,7 +5,7 @@ const ProjectShoppingList = () => {
     <div className='project'>
       <div className='project-img'>
         <h3>To do list</h3>
-        <div className={`project__display__poster`}>
+        <div>
           <img
             src='images/portfolio/shoppinglist.PNG'
             alt='Project Thumbnail'

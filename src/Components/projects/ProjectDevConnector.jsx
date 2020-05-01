@@ -6,10 +6,10 @@ const ProjectDevConnector = () => {
       <div className='project'>
         <div className='project-img'>
           <h3>Dev Connector</h3>
-          <div className={`project__display__poster`}>
+          <div>
             <img
-              src='images/portfolio/BrandLogo.PNG'
-              alt={`Project Thumbnail`}
+              src='images/portfolio/BrandLogo.png'
+              alt='Project Thumbnail'
               className='img-fit'
             />
           </div>
@@ -133,7 +133,7 @@ const ProjectDevConnector = () => {
                   className='link'
                 >
                   gravatar
-                </a>
+                </a>{' '}
                 to your profile
               </p>
             </li>

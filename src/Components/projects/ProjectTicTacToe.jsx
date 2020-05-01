@@ -50,7 +50,7 @@ const ProjectTicTacToe = () => {
             some color . I decided to add to it some special features such has
             leting you undo your last move.
           </p>
-          <h5>Project difficulties</h5>
+          <h5>Project Difficulties</h5>
           <p>
             Figuring out how to enable the user to{' '}
             <span className='hightlight'>undo a move </span> took me some time.

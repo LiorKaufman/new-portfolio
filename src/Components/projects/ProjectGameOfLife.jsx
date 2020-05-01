@@ -57,7 +57,7 @@ const ProjectGameOfLife = () => {
           initial configuration and observing how it evolves.
           <span className={`highlight`}> Wikipedia</span>
         </p>
-        <h5>Project difficulties</h5>
+        <h5>Project Difficulties</h5>
         <p>
           This was my first time dealing with{' '}
           <span className='highlight'>Animation</span> in React. I had to
@@ -92,7 +92,7 @@ const ProjectGameOfLife = () => {
         </ul>
       </div>
       <div className='project-features'>
-        <h4> My solution:</h4>
+        <h4> My Solution:</h4>
         <p>
           <span className='highlight'> Immer</span>, a package that lets you
           work with immutable state. Thus allowing me to check my grid array and
