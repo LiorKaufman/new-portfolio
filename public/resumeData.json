@@ -1,132 +1,126 @@
 {
   "main": {
-    "name":"Lior Kaufman",
-    "occupation":"Web Developer",
-    "description":" With  experience in  developing user interfaces, testing, debugging, and a versatile skill set. Proven ability in understanding and implanting new technologies.",
-    "image":"profilepic.jpg",
-    "bio":"My name is Lior Kaufman, I am a resourceful problem solver that is backed with 5 years of\nexperience in various leadership roles. Passionate about\ncreating high quality solutions to different problems.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Lior Kaufman",
+    "occupation": "Web Developer",
+    "description": " With  experience in  developing user interfaces, testing, debugging, and a versatile skill set. Proven ability in understanding and implanting new technologies.",
+    "image": "profilepic.jpg",
+    "bio": "My name is Lior Kaufman, I am a resourceful problem solver that is backed with 5 years of\nexperience in various leadership roles. Passionate about\ncreating high quality solutions to different problems.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Liorka1990@gmail.com",
     "phone": "562-541-2010",
-    "address":{
-      "city":"San Diego",
-      "state":"California",
+    "address": {
+      "city": "San Diego",
+      "state": "California",
       "zip": "91942"
     },
-    "resumedownload":"https://easyupload.io/ftbeo9",
-    "social":[
-
+    "resumedownload": "https://easyupload.io/ftbeo9",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/lior-kaufman/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lior-kaufman/",
+        "className": "fa fa-linkedin"
       },
 
       {
-        "name":"github",
-        "url":"https://github.com/LiorKaufman",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/LiorKaufman",
+        "className": "fa fa-github"
       }
-
     ]
   },
-  "resume":{
-    "skillmessage":"My skill set",
-    "education":[
+  "resume": {
+    "skillmessage": "My skill set",
+    "education": [
       {
-        "school":"LEARN academy",
-        "degree":"Fullstack development",
-        "graduated":"JUN 2019 - Aug 2019 ",
-        "description":"Gained 480+ hours of direct hands-on coding\nexperience developing web applications utilizing\nHTML/CSS, JavaScript, React, Ruby, Rails, AWS,\nPostgreSQL and github. Practiced industry best\npractices and programming in pair and mob\nprogramming teams."
+        "school": "LEARN academy",
+        "degree": "Fullstack development",
+        "graduated": "JUN 2019 - Aug 2019 ",
+        "description": "Gained 480+ hours of direct hands-on coding\nexperience developing web applications utilizing\nHTML/CSS, JavaScript, React, Ruby, Rails, AWS,\nPostgreSQL and github. Practiced industry best\npractices and programming in pair and mob\nprogramming teams."
       },
       {
-        "school":"Mesa Community College, San Diego",
-        "degree":"Computer Science",
-        "graduated":"2018 - Present",
-        "description":"Accumulated 37 credits with towards a Bachelor's degree. Taken multiple Programming courses in Java and C++ as well as getting into the Dean's Honor List"
+        "school": "Mesa Community College, San Diego",
+        "degree": "Computer Science",
+        "graduated": "2018 - Present",
+        "description": "Accumulated 37 credits with towards a Bachelor's degree. Taken multiple Programming courses in Java and C++ as well as getting into the Dean's Honor List"
       },
       {
-        "school":"Ben Gurion University of the Negev - Israel",
-        "degree":"Accounting",
-        "graduated":"Oct 2015 - Oct 2016 ",
-        "description":"Accumulated 32 credits towards a Bachelor's degree in accounting in Israel."
+        "school": "Ben Gurion University of the Negev - Israel",
+        "degree": "Accounting",
+        "graduated": "Oct 2015 - Oct 2016 ",
+        "description": "Accumulated 32 credits towards a Bachelor's degree in accounting in Israel."
       }
-
     ],
-    "work":[
+    "work": [
       {
-        "company":"CourseKey",
-        "title":"Frontend web developer ",
-        "years":"Aug 2019 - Jan 2020",
-        "description":"Worked with the web development team on User\nInterface features. Refactored existing UI with React\nhooks and Redux latest features. Wrote unit and\nintegration tests using Jest and Enzyme. Increased\ncode test coverage by 10%. Resolved bugs and issues as\nreported by users and team."
+        "company": "CourseKey",
+        "title": "Frontend web developer ",
+        "years": "Aug 2019 - Jan 2020",
+        "description": "Translated design team's UX wireframes and mockups into responsive, interactive features, using HTML/CSS and React \nDeveloped and maintained critical components of the website using React components \nIncreased application testing coverage by 11% \nWas part on agile development team"
       },
       {
-        "company":"Hyatt Hotels",
-        "title":"Bartender",
-        "years":"Oct 2017 - Jun 2019",
-        "description":"Displayed communication skills through one on one\ncontact with customers. Demonstrated flexibility in\nregard to work assignments and work schedule."
+        "company": "Hyatt Hotels",
+        "title": "Bartender",
+        "years": "Oct 2017 - Jun 2019",
+        "description": "Displayed communication skills through one on one contact with customers. \nDemonstrated flexibility in regard to work assignments and work schedule.\nKept the bar area safe, clean, and well-stocked throughout each working shift."
       },
       {
-        "company":"Megi & Tuli Catering",
-        "title":"Event Manager",
-        "years":"Jun 2014 - Dec 2016",
-        "description":"Assigned roles and directed banquet servers and\nkitchen staff of up to 80 people. Found solutions to\nvarious problems that arose in an event while making\nsure company standards were upheld"
+        "company": "Megi & Tuli Catering",
+        "title": "Event Manager",
+        "years": "Jun 2014 - Dec 2016",
+        "description": "Assigned roles and directed banquet servers and kitchen staff of up to 80 people.\nFound solutions to various problems that arose in an event while making sure company standards were upheld\nCoordinated kitchen,, staff, and venue logistics. "
       },
       {
-        "company":"Israel Defense Force",
-        "title":"Lieutenant",
-        "years":"Aug 2009 - May 2014",
-        "description":"Planned, coordinated and lead different field\noperations of up to 20 soldiers. Managed all aspects of\ntraining, mentoring, and daily routines of up to 70\nsoldiers at a time."
+        "company": "Israel Defense Force",
+        "title": "Lieutenant",
+        "years": "Aug 2009 - May 2014",
+        "description": "Planned, coordinated and lead different field operations of up to 20 soldiers. \nManaged all aspects of training, mentoring, and daily routines of up to 70 soldiers at a time."
       }
-
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Game of Life",
-        "category":"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway.",
+        "title": "Game of Life",
+        "category": "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway.",
         "tools": "React/HTML/CSS/BootStrap",
-        "image":"game-of-life.png",
-        "url":"https://game-of-life-lk.herokuapp.com/"
+        "image": "game-of-life.png",
+        "url": "https://game-of-life-lk.herokuapp.com/"
       },
       {
-        "title":"Glasstrack",
-        "category":"My final project from LEARN Academy. A fullstack app that allows real time inventory tracking for a bar. The inventory tracks both bottle and individual glass sales.",
+        "title": "Glasstrack",
+        "category": "My final project from LEARN Academy. A fullstack app that allows real time inventory tracking for a bar. The inventory tracks both bottle and individual glass sales.",
         "tools": "React/BootStrap/Rails/PostgreSQL",
-        "image":"glass.png",
-        "url":"https://guarded-garden-91447.herokuapp.com/users/sign_in"
+        "image": "glass.png",
+        "url": "https://guarded-garden-91447.herokuapp.com/users/sign_in"
       },
       {
-        "title":"Location List ",
-        "category":"Allows a user to search and add addresses as markers in a map, and display locations in a list.",
+        "title": "Location List ",
+        "category": "Allows a user to search and add addresses as markers in a map, and display locations in a list.",
         "tools": "React/Material-Ui/Google API/Redux",
-        "image":"location-list.png",
-        "url":"https://places-list.herokuapp.com/"
+        "image": "location-list.png",
+        "url": "https://places-list.herokuapp.com/"
       },
       {
-        "title":"Tic-Tac-Toe",
-        "category":"The original Tic-Tac-Toe game built in React during my time as a student at LEARN academy",
+        "title": "Tic-Tac-Toe",
+        "category": "The original Tic-Tac-Toe game built in React during my time as a student at LEARN academy",
         "tools": "React/HTML/CSS",
-        "image":"tic-tac-toe.png",
-        "url":"https://tic-tac-toe-react-lior.herokuapp.com/"
+        "image": "tic-tac-toe.png",
+        "url": "https://tic-tac-toe-react-lior.herokuapp.com/"
       },
       {
-        "title":"Pig Latin",
-        "category":"Pig Latin translator built in vanilla JS during my time as a student at LEARN academy",
+        "title": "Pig Latin",
+        "category": "Pig Latin translator built in vanilla JS during my time as a student at LEARN academy",
         "tools": "Javascript/HTML/CSS",
-        "image":"pig-latin.png",
-        "url":"https://codepen.io/artilleryjoe/pen/rEXENW"
+        "image": "pig-latin.png",
+        "url": "https://codepen.io/artilleryjoe/pen/rEXENW"
       },
       {
-        "title":"Shopping List",
-        "category":"A full stack application using the MERN stack, a simple interface that lets you add and delete your shopping list",
+        "title": "Shopping List",
+        "category": "A full stack application using the MERN stack, a simple interface that lets you add and delete your shopping list",
         "tools": "React/Node.js/Express/Redux/Boostrap/MongoDB",
-        "image":"shoppinglist.png",
-        "url":"https://hidden-wave-94604.herokuapp.com/"
+        "image": "shoppinglist.png",
+        "url": "https://hidden-wave-94604.herokuapp.com/"
       }
-
     ]
   }
-
 }
