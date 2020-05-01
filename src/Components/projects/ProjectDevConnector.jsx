@@ -125,7 +125,7 @@ const ProjectDevConnector = () => {
             <li>
               <i className='fas fa-dot-circle link'></i>
               <p>
-                Add a
+                Add a{' '}
                 <a
                   href='http://en.gravatar.com/'
                   target='__blank'

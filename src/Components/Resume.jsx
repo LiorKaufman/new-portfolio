@@ -171,7 +171,15 @@ class Resume extends Component {
                       className='img-skill img-centered'
                       alt=''
                     />
-                    <span className='span'> React</span>
+                    <span className='span'> React.js</span>
+                  </div>
+                  <div className='col-md-2 text-center'>
+                    <img
+                      src='/images/portfolio/express.png'
+                      className='img-skill img-centered'
+                      alt=''
+                    />
+                    <span className='span'> Express.js</span>
                   </div>
                 </div>
               </div>
