@@ -16,7 +16,7 @@ const ProjectDevConnector = () => {
           <div className='project-options'>
             <a
               className='m-2'
-              href='https://devconnectorapp.herokuapp.com/'
+              href='https://devconnetorapp.herokuapp.com/'
               target='_blank'
               rel='noopener noreferrer'
             >
